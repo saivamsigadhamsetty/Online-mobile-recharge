@@ -11,7 +11,7 @@ companies who are giving the mobile connections come under this module. Function
 module is to make the mobile recharging of their company basing on the availability of balance
 in the admin account. Request comes from the user and it is going to be verified at the admin for
 the availability of balance and then the request is forwarded to the service provided to make the
-mobile recharge.,br/>
+mobile recharge.<br/>
 Administrator is the one who monitors all users and user transactions. Admin also monitors all
 the Service Providers, all the user accounts, and amounts paid by the user and amounts paid to
 Service providers. When the request given by the user admin checks the available balance in the
